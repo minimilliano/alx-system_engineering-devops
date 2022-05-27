@@ -6,3 +6,4 @@
 5-listfilesdigitonly displays current directory of user and group id
 6-firstdirectory displays creating a directory in a directory
 7-movethatfile displays moving a file to a directory
+8-firstdelete displays deletion of a file
