@@ -11,3 +11,4 @@
 10-no_more_js deletes js files
 11-directories counts directories
 12-newest_files displays newest files
+13-unique displays words that appear once
