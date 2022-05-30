@@ -13,3 +13,4 @@
 12-newest_files displays newest files
 13-unique displays words that appear once
 14-findthatword displays line with root
+15-countthatword displays number of lines
