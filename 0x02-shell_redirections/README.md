@@ -19,4 +19,5 @@
 18-letteronly  display lines with starting with a letter
 19-AZ replace characters
 20-hiago deletes characters
-21-reverse  reverse input 
+21-reverse  reverse input
+22-users_and_homes display users and home dir 
