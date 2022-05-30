@@ -8,3 +8,4 @@
 7-file creates file with contents
 8-cwd_state writes into file
 9-duplicate_last_line duplicate last line
+10-no_more_js deletes js files
