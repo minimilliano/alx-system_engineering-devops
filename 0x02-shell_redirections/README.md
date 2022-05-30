@@ -17,3 +17,4 @@
 16-whatsnext displays number of lines with pattern
 17-hidethisword display number of lines not with a pattern
 18-letteronly  display lines with starting with a letter
+19-AZ replace characters
